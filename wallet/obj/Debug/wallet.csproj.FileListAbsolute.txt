@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\wallet\bin\Debug\wallet.exe.config
+C:\Users\admin\source\repos\wallet\bin\Debug\wallet.exe
+C:\Users\admin\source\repos\wallet\bin\Debug\wallet.pdb
+C:\Users\admin\source\repos\wallet\obj\Debug\wallet.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\wallet\obj\Debug\wallet.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\wallet\obj\Debug\wallet.exe
+C:\Users\admin\source\repos\wallet\obj\Debug\wallet.pdb
