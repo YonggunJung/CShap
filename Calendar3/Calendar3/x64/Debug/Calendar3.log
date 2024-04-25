@@ -1,0 +1,7 @@
+﻿  Calendar.c
+C:\Users\admin\source\repos\Calendar3\Calendar.c(64,10): warning C4047: '함수': 'const char *const '의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\admin\source\repos\Calendar3\Calendar.c(64,10): warning C4024: 'printf': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\admin\source\repos\Calendar3\Calendar.c(36,7): warning C4090: '초기화 중': 'const' 한정자가 서로 다릅니다.
+C:\Users\admin\source\repos\Calendar3\Calendar.c(45,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\admin\source\repos\Calendar3\Calendar.c(50,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Calendar3.vcxproj -> C:\Users\admin\source\repos\Calendar3\x64\Debug\Calendar3.exe
