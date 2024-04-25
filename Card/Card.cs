@@ -6,16 +6,17 @@ using System.Threading.Tasks;
 
 namespace Card
 {
+    public enum Symbol { Heart, Diamond, Clover, Spade, BlackJoker, ColorJoker }
+
     internal class Card
     {
-        public enum Symbol { Heart, Diamond, Clover, Spade, BlackJoker, ColorJoker }
-
+        public int rand = 0;   // shuffle용
         private Symbol symbol;
         private int number;
         private string card;
         private static string mark = "♥◆♣♠ ";
         private static string[] numbers = {"", "A", "2", "3", "4", "5", "6", "7", "8", "9", "10", "J", "Q", "K" };
-
+        private bool open = false;
         public Card(Symbol symbol, int number)  // 조커외 용 생성자
         {
             this.symbol = symbol;
@@ -32,10 +33,16 @@ namespace Card
                 this.card = "ColorJoker";
         }
 
+        public void Turn(bool open)
+        {
+            this.open = open;
+        }
+
+        public bool IsOpen() { return open; }
+
         public override string ToString()
         {
-
-            return this.card;
+            return open ? this.card : "##";
         }
     }
 }
