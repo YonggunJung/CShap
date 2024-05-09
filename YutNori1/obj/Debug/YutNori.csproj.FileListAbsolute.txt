@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\YutNori\obj\Debug\YutNori.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\YutNori\obj\Debug\YutNori.Board.resources
+C:\Users\admin\source\repos\YutNori\obj\Debug\YutNori.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\YutNori\bin\Debug\YutNori.exe.config
+C:\Users\admin\source\repos\YutNori\bin\Debug\YutNori.exe
+C:\Users\admin\source\repos\YutNori\bin\Debug\YutNori.pdb
+C:\Users\admin\source\repos\YutNori\obj\Debug\YutNori.Properties.Resources.resources
+C:\Users\admin\source\repos\YutNori\obj\Debug\YutNori.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\YutNori\obj\Debug\YutNori.exe
+C:\Users\admin\source\repos\YutNori\obj\Debug\YutNori.pdb
