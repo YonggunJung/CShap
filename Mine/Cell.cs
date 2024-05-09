@@ -19,7 +19,7 @@ namespace Mine
             this.c = c;
             this.r = r;
 
-            this.Location = new System.Drawing.Point(c * W, r * W);
+            this.Location = new System.Drawing.Point(c * W, r * W+Board.MenuHeight);
             this.Name = "button1";
             this.Size = new System.Drawing.Size(W, W);
             this.TabIndex = 0;
@@ -27,6 +27,21 @@ namespace Mine
             this.UseVisualStyleBackColor = true;
 
             controls.Add(this);
+        }
+
+        public bool HasMine()
+        {
+            return hidden_text == "*";
+        }
+
+        public void MakeFlag()
+        {
+            Text = "P";
+        }
+
+        public void Open()
+        {
+            Text = hidden_text;
         }
     }
 }
