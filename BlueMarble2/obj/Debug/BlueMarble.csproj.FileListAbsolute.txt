@@ -1,0 +1,12 @@
+C:\Users\admin\source\repos\BlueMarble\bin\Debug\BlueMarble.exe.config
+C:\Users\admin\source\repos\BlueMarble\bin\Debug\BlueMarble.exe
+C:\Users\admin\source\repos\BlueMarble\bin\Debug\BlueMarble.pdb
+C:\Users\admin\source\repos\BlueMarble\obj\Debug\BlueMarble.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\BlueMarble\obj\Debug\BlueMarble.Board.resources
+C:\Users\admin\source\repos\BlueMarble\obj\Debug\BlueMarble.Properties.Resources.resources
+C:\Users\admin\source\repos\BlueMarble\obj\Debug\BlueMarble.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\BlueMarble\obj\Debug\BlueMarble.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\BlueMarble\obj\Debug\BlueMarble.exe
+C:\Users\admin\source\repos\BlueMarble\obj\Debug\BlueMarble.pdb
+C:\Users\admin\source\repos\BlueMarble\obj\Debug\BlueMarble.Turn.resources
+C:\Users\admin\source\repos\BlueMarble\obj\Debug\BlueMarble.Buy.resources
