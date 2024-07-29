@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\7_2_1ListView\bin\Debug\7_2_1ListView.exe.config
+C:\Users\admin\source\repos\7_2_1ListView\bin\Debug\7_2_1ListView.exe
+C:\Users\admin\source\repos\7_2_1ListView\bin\Debug\7_2_1ListView.pdb
+C:\Users\admin\source\repos\7_2_1ListView\obj\Debug\7_2_1ListView.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\7_2_1ListView\obj\Debug\_7_2_1ListView.Form1.resources
+C:\Users\admin\source\repos\7_2_1ListView\obj\Debug\_7_2_1ListView.Properties.Resources.resources
+C:\Users\admin\source\repos\7_2_1ListView\obj\Debug\7_2_1ListView.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\7_2_1ListView\obj\Debug\7_2_1ListView.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\7_2_1ListView\obj\Debug\7_2_1ListView.exe
+C:\Users\admin\source\repos\7_2_1ListView\obj\Debug\7_2_1ListView.pdb
