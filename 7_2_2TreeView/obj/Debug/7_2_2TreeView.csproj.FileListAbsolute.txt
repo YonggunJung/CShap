@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\7_2_2TreeView\bin\Debug\7_2_2TreeView.exe.config
+C:\Users\admin\source\repos\7_2_2TreeView\bin\Debug\7_2_2TreeView.exe
+C:\Users\admin\source\repos\7_2_2TreeView\bin\Debug\7_2_2TreeView.pdb
+C:\Users\admin\source\repos\7_2_2TreeView\obj\Debug\7_2_2TreeView.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\7_2_2TreeView\obj\Debug\_7_2_2TreeView.Form1.resources
+C:\Users\admin\source\repos\7_2_2TreeView\obj\Debug\_7_2_2TreeView.Properties.Resources.resources
+C:\Users\admin\source\repos\7_2_2TreeView\obj\Debug\7_2_2TreeView.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\7_2_2TreeView\obj\Debug\7_2_2TreeView.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\7_2_2TreeView\obj\Debug\7_2_2TreeView.exe
+C:\Users\admin\source\repos\7_2_2TreeView\obj\Debug\7_2_2TreeView.pdb
