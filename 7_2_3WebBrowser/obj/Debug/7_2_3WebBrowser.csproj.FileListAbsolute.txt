@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\7_2_3WebBrowser\bin\Debug\7_2_3WebBrowser.exe.config
+C:\Users\admin\source\repos\7_2_3WebBrowser\bin\Debug\7_2_3WebBrowser.exe
+C:\Users\admin\source\repos\7_2_3WebBrowser\bin\Debug\7_2_3WebBrowser.pdb
+C:\Users\admin\source\repos\7_2_3WebBrowser\obj\Debug\7_2_3WebBrowser.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\7_2_3WebBrowser\obj\Debug\_7_2_3WebBrowser.Form1.resources
+C:\Users\admin\source\repos\7_2_3WebBrowser\obj\Debug\_7_2_3WebBrowser.Properties.Resources.resources
+C:\Users\admin\source\repos\7_2_3WebBrowser\obj\Debug\7_2_3WebBrowser.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\7_2_3WebBrowser\obj\Debug\7_2_3WebBrowser.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\7_2_3WebBrowser\obj\Debug\7_2_3WebBrowser.exe
+C:\Users\admin\source\repos\7_2_3WebBrowser\obj\Debug\7_2_3WebBrowser.pdb
