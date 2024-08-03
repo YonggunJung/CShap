@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\8_1_3DirectoryEx\bin\Debug\8_1_3DirectoryEx.exe.config
+C:\Users\admin\source\repos\8_1_3DirectoryEx\bin\Debug\8_1_3DirectoryEx.exe
+C:\Users\admin\source\repos\8_1_3DirectoryEx\bin\Debug\8_1_3DirectoryEx.pdb
+C:\Users\admin\source\repos\8_1_3DirectoryEx\obj\Debug\8_1_3DirectoryEx.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\8_1_3DirectoryEx\obj\Debug\_8_1_3DirectoryEx.Form1.resources
+C:\Users\admin\source\repos\8_1_3DirectoryEx\obj\Debug\_8_1_3DirectoryEx.Properties.Resources.resources
+C:\Users\admin\source\repos\8_1_3DirectoryEx\obj\Debug\8_1_3DirectoryEx.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\8_1_3DirectoryEx\obj\Debug\8_1_3DirectoryEx.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\8_1_3DirectoryEx\obj\Debug\8_1_3DirectoryEx.exe
+C:\Users\admin\source\repos\8_1_3DirectoryEx\obj\Debug\8_1_3DirectoryEx.pdb
