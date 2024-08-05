@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\8_1_4DirectoryInfoEx\bin\Debug\8_1_4DirectoryInfoEx.exe.config
+C:\Users\admin\source\repos\8_1_4DirectoryInfoEx\bin\Debug\8_1_4DirectoryInfoEx.exe
+C:\Users\admin\source\repos\8_1_4DirectoryInfoEx\bin\Debug\8_1_4DirectoryInfoEx.pdb
+C:\Users\admin\source\repos\8_1_4DirectoryInfoEx\obj\Debug\8_1_4DirectoryInfoEx.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\8_1_4DirectoryInfoEx\obj\Debug\_8_1_4DirectoryInfoEx.Form1.resources
+C:\Users\admin\source\repos\8_1_4DirectoryInfoEx\obj\Debug\_8_1_4DirectoryInfoEx.Properties.Resources.resources
+C:\Users\admin\source\repos\8_1_4DirectoryInfoEx\obj\Debug\8_1_4DirectoryInfoEx.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\8_1_4DirectoryInfoEx\obj\Debug\8_1_4DirectoryInfoEx.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\8_1_4DirectoryInfoEx\obj\Debug\8_1_4DirectoryInfoEx.exe
+C:\Users\admin\source\repos\8_1_4DirectoryInfoEx\obj\Debug\8_1_4DirectoryInfoEx.pdb
