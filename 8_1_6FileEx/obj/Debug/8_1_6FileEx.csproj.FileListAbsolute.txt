@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\8_1_6FileEx\bin\Debug\8_1_6FileEx.exe.config
+C:\Users\admin\source\repos\8_1_6FileEx\bin\Debug\8_1_6FileEx.exe
+C:\Users\admin\source\repos\8_1_6FileEx\bin\Debug\8_1_6FileEx.pdb
+C:\Users\admin\source\repos\8_1_6FileEx\obj\Debug\8_1_6FileEx.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\8_1_6FileEx\obj\Debug\_8_1_6FileEx.Form1.resources
+C:\Users\admin\source\repos\8_1_6FileEx\obj\Debug\_8_1_6FileEx.Properties.Resources.resources
+C:\Users\admin\source\repos\8_1_6FileEx\obj\Debug\8_1_6FileEx.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\8_1_6FileEx\obj\Debug\8_1_6FileEx.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\8_1_6FileEx\obj\Debug\8_1_6FileEx.exe
+C:\Users\admin\source\repos\8_1_6FileEx\obj\Debug\8_1_6FileEx.pdb
