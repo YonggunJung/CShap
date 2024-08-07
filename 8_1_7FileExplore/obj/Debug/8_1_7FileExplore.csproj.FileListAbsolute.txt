@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\8_1_7FileExplore\bin\Debug\8_1_7FileExplore.exe.config
+C:\Users\admin\source\repos\8_1_7FileExplore\bin\Debug\8_1_7FileExplore.exe
+C:\Users\admin\source\repos\8_1_7FileExplore\bin\Debug\8_1_7FileExplore.pdb
+C:\Users\admin\source\repos\8_1_7FileExplore\obj\Debug\8_1_7FileExplore.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\8_1_7FileExplore\obj\Debug\_8_1_7FileExplore.Form1.resources
+C:\Users\admin\source\repos\8_1_7FileExplore\obj\Debug\_8_1_7FileExplore.Properties.Resources.resources
+C:\Users\admin\source\repos\8_1_7FileExplore\obj\Debug\8_1_7FileExplore.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\8_1_7FileExplore\obj\Debug\8_1_7FileExplore.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\8_1_7FileExplore\obj\Debug\8_1_7FileExplore.exe
+C:\Users\admin\source\repos\8_1_7FileExplore\obj\Debug\8_1_7FileExplore.pdb
