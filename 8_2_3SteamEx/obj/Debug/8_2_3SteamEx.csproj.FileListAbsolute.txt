@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\8_2_3SteamEx\bin\Debug\8_2_3SteamEx.exe.config
+C:\Users\admin\source\repos\8_2_3SteamEx\bin\Debug\8_2_3SteamEx.exe
+C:\Users\admin\source\repos\8_2_3SteamEx\bin\Debug\8_2_3SteamEx.pdb
+C:\Users\admin\source\repos\8_2_3SteamEx\obj\Debug\8_2_3SteamEx.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\8_2_3SteamEx\obj\Debug\_8_2_3SteamEx.Form1.resources
+C:\Users\admin\source\repos\8_2_3SteamEx\obj\Debug\_8_2_3SteamEx.Properties.Resources.resources
+C:\Users\admin\source\repos\8_2_3SteamEx\obj\Debug\8_2_3SteamEx.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\8_2_3SteamEx\obj\Debug\8_2_3SteamEx.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\8_2_3SteamEx\obj\Debug\8_2_3SteamEx.exe
+C:\Users\admin\source\repos\8_2_3SteamEx\obj\Debug\8_2_3SteamEx.pdb
