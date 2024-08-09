@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\8_2_5TextIO\bin\Debug\8_2_5TextIO.exe.config
+C:\Users\admin\source\repos\8_2_5TextIO\bin\Debug\8_2_5TextIO.exe
+C:\Users\admin\source\repos\8_2_5TextIO\bin\Debug\8_2_5TextIO.pdb
+C:\Users\admin\source\repos\8_2_5TextIO\obj\Debug\8_2_5TextIO.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\8_2_5TextIO\obj\Debug\_8_2_5TextIO.Form1.resources
+C:\Users\admin\source\repos\8_2_5TextIO\obj\Debug\_8_2_5TextIO.Properties.Resources.resources
+C:\Users\admin\source\repos\8_2_5TextIO\obj\Debug\8_2_5TextIO.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\8_2_5TextIO\obj\Debug\8_2_5TextIO.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\8_2_5TextIO\obj\Debug\8_2_5TextIO.exe
+C:\Users\admin\source\repos\8_2_5TextIO\obj\Debug\8_2_5TextIO.pdb
