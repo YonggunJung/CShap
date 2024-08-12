@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\8_2_7BinaryIO\bin\Debug\8_2_7BinaryIO.exe.config
+C:\Users\admin\source\repos\8_2_7BinaryIO\bin\Debug\8_2_7BinaryIO.exe
+C:\Users\admin\source\repos\8_2_7BinaryIO\bin\Debug\8_2_7BinaryIO.pdb
+C:\Users\admin\source\repos\8_2_7BinaryIO\obj\Debug\8_2_7BinaryIO.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\8_2_7BinaryIO\obj\Debug\_8_2_7BinaryIO.Form1.resources
+C:\Users\admin\source\repos\8_2_7BinaryIO\obj\Debug\_8_2_7BinaryIO.Properties.Resources.resources
+C:\Users\admin\source\repos\8_2_7BinaryIO\obj\Debug\8_2_7BinaryIO.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\8_2_7BinaryIO\obj\Debug\8_2_7BinaryIO.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\8_2_7BinaryIO\obj\Debug\8_2_7BinaryIO.exe
+C:\Users\admin\source\repos\8_2_7BinaryIO\obj\Debug\8_2_7BinaryIO.pdb
