@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\8_2_9serializeEx\obj\Debug\8_2_9serializeEx.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\8_2_9serializeEx\obj\Debug\_8_2_9serializeEx.Form1.resources
+C:\Users\admin\source\repos\8_2_9serializeEx\obj\Debug\_8_2_9serializeEx.Properties.Resources.resources
+C:\Users\admin\source\repos\8_2_9serializeEx\obj\Debug\8_2_9serializeEx.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\8_2_9serializeEx\obj\Debug\8_2_9serializeEx.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\8_2_9serializeEx\bin\Debug\8_2_9serializeEx.exe.config
+C:\Users\admin\source\repos\8_2_9serializeEx\bin\Debug\8_2_9serializeEx.exe
+C:\Users\admin\source\repos\8_2_9serializeEx\bin\Debug\8_2_9serializeEx.pdb
+C:\Users\admin\source\repos\8_2_9serializeEx\obj\Debug\8_2_9serializeEx.exe
+C:\Users\admin\source\repos\8_2_9serializeEx\obj\Debug\8_2_9serializeEx.pdb
