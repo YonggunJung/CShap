@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\9_1_3ThreadInfo\bin\Debug\9_1_3ThreadInfo.exe.config
+C:\Users\admin\source\repos\9_1_3ThreadInfo\bin\Debug\9_1_3ThreadInfo.exe
+C:\Users\admin\source\repos\9_1_3ThreadInfo\bin\Debug\9_1_3ThreadInfo.pdb
+C:\Users\admin\source\repos\9_1_3ThreadInfo\obj\Debug\9_1_3ThreadInfo.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\9_1_3ThreadInfo\obj\Debug\_9_1_3ThreadInfo.Form1.resources
+C:\Users\admin\source\repos\9_1_3ThreadInfo\obj\Debug\_9_1_3ThreadInfo.Properties.Resources.resources
+C:\Users\admin\source\repos\9_1_3ThreadInfo\obj\Debug\9_1_3ThreadInfo.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\9_1_3ThreadInfo\obj\Debug\9_1_3ThreadInfo.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\9_1_3ThreadInfo\obj\Debug\9_1_3ThreadInfo.exe
+C:\Users\admin\source\repos\9_1_3ThreadInfo\obj\Debug\9_1_3ThreadInfo.pdb
