@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\9_1_5ThreadCreate\bin\Debug\9_1_5ThreadCreate.exe.config
+C:\Users\admin\source\repos\9_1_5ThreadCreate\bin\Debug\9_1_5ThreadCreate.exe
+C:\Users\admin\source\repos\9_1_5ThreadCreate\bin\Debug\9_1_5ThreadCreate.pdb
+C:\Users\admin\source\repos\9_1_5ThreadCreate\obj\Debug\9_1_5ThreadCreate.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\9_1_5ThreadCreate\obj\Debug\9_1_5ThreadCreate.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\9_1_5ThreadCreate\obj\Debug\9_1_5ThreadCreate.exe
+C:\Users\admin\source\repos\9_1_5ThreadCreate\obj\Debug\9_1_5ThreadCreate.pdb
