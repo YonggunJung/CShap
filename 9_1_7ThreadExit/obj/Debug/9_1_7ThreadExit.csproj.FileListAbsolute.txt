@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\9_1_7ThreadExit\bin\Debug\9_1_7ThreadExit.exe.config
+C:\Users\admin\source\repos\9_1_7ThreadExit\bin\Debug\9_1_7ThreadExit.exe
+C:\Users\admin\source\repos\9_1_7ThreadExit\bin\Debug\9_1_7ThreadExit.pdb
+C:\Users\admin\source\repos\9_1_7ThreadExit\obj\Debug\9_1_7ThreadExit.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\9_1_7ThreadExit\obj\Debug\9_1_7ThreadExit.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\9_1_7ThreadExit\obj\Debug\9_1_7ThreadExit.exe
+C:\Users\admin\source\repos\9_1_7ThreadExit\obj\Debug\9_1_7ThreadExit.pdb
