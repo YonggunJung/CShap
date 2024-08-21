@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\9_1_9ThreadControl\obj\Debug\9_1_9ThreadControl.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\9_1_9ThreadControl\obj\Debug\9_1_9ThreadControl.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\9_1_9ThreadControl\bin\Debug\9_1_9ThreadControl.exe.config
+C:\Users\admin\source\repos\9_1_9ThreadControl\bin\Debug\9_1_9ThreadControl.exe
+C:\Users\admin\source\repos\9_1_9ThreadControl\bin\Debug\9_1_9ThreadControl.pdb
+C:\Users\admin\source\repos\9_1_9ThreadControl\obj\Debug\9_1_9ThreadControl.exe
+C:\Users\admin\source\repos\9_1_9ThreadControl\obj\Debug\9_1_9ThreadControl.pdb
