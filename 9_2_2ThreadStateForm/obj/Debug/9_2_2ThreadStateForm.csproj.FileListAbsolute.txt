@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\9_2_2ThreadStateForm\obj\Debug\9_2_2ThreadStateForm.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\9_2_2ThreadStateForm\obj\Debug\_9_2_2ThreadStateForm.Form1.resources
+C:\Users\admin\source\repos\9_2_2ThreadStateForm\obj\Debug\_9_2_2ThreadStateForm.Properties.Resources.resources
+C:\Users\admin\source\repos\9_2_2ThreadStateForm\obj\Debug\9_2_2ThreadStateForm.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\9_2_2ThreadStateForm\obj\Debug\9_2_2ThreadStateForm.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\9_2_2ThreadStateForm\bin\Debug\9_2_2ThreadStateForm.exe.config
+C:\Users\admin\source\repos\9_2_2ThreadStateForm\bin\Debug\9_2_2ThreadStateForm.exe
+C:\Users\admin\source\repos\9_2_2ThreadStateForm\bin\Debug\9_2_2ThreadStateForm.pdb
+C:\Users\admin\source\repos\9_2_2ThreadStateForm\obj\Debug\9_2_2ThreadStateForm.exe
+C:\Users\admin\source\repos\9_2_2ThreadStateForm\obj\Debug\9_2_2ThreadStateForm.pdb
