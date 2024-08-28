@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\9_2_4ThreadPoolForm\bin\Debug\9_2_4ThreadPoolForm.exe.config
+C:\Users\admin\source\repos\9_2_4ThreadPoolForm\bin\Debug\9_2_4ThreadPoolForm.exe
+C:\Users\admin\source\repos\9_2_4ThreadPoolForm\bin\Debug\9_2_4ThreadPoolForm.pdb
+C:\Users\admin\source\repos\9_2_4ThreadPoolForm\obj\Debug\9_2_4ThreadPoolForm.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\9_2_4ThreadPoolForm\obj\Debug\_9_2_4ThreadPoolForm.Form1.resources
+C:\Users\admin\source\repos\9_2_4ThreadPoolForm\obj\Debug\_9_2_4ThreadPoolForm.Properties.Resources.resources
+C:\Users\admin\source\repos\9_2_4ThreadPoolForm\obj\Debug\9_2_4ThreadPoolForm.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\9_2_4ThreadPoolForm\obj\Debug\9_2_4ThreadPoolForm.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\9_2_4ThreadPoolForm\obj\Debug\9_2_4ThreadPoolForm.exe
+C:\Users\admin\source\repos\9_2_4ThreadPoolForm\obj\Debug\9_2_4ThreadPoolForm.pdb
