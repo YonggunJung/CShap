@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\9_3_3ThreadLock\bin\Debug\9_3_3ThreadLock.exe.config
+C:\Users\admin\source\repos\9_3_3ThreadLock\bin\Debug\9_3_3ThreadLock.exe
+C:\Users\admin\source\repos\9_3_3ThreadLock\bin\Debug\9_3_3ThreadLock.pdb
+C:\Users\admin\source\repos\9_3_3ThreadLock\obj\Debug\9_3_3ThreadLock.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\9_3_3ThreadLock\obj\Debug\_9_3_3ThreadLock.Form1.resources
+C:\Users\admin\source\repos\9_3_3ThreadLock\obj\Debug\_9_3_3ThreadLock.Properties.Resources.resources
+C:\Users\admin\source\repos\9_3_3ThreadLock\obj\Debug\9_3_3ThreadLock.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\9_3_3ThreadLock\obj\Debug\9_3_3ThreadLock.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\9_3_3ThreadLock\obj\Debug\9_3_3ThreadLock.exe
+C:\Users\admin\source\repos\9_3_3ThreadLock\obj\Debug\9_3_3ThreadLock.pdb
