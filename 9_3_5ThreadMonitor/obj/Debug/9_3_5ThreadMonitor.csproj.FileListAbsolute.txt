@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\9_3_5ThreadMonitor\bin\Debug\9_3_5ThreadMonitor.exe.config
+C:\Users\admin\source\repos\9_3_5ThreadMonitor\bin\Debug\9_3_5ThreadMonitor.exe
+C:\Users\admin\source\repos\9_3_5ThreadMonitor\bin\Debug\9_3_5ThreadMonitor.pdb
+C:\Users\admin\source\repos\9_3_5ThreadMonitor\obj\Debug\9_3_5ThreadMonitor.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\9_3_5ThreadMonitor\obj\Debug\_9_3_5ThreadMonitor.Form1.resources
+C:\Users\admin\source\repos\9_3_5ThreadMonitor\obj\Debug\_9_3_5ThreadMonitor.Properties.Resources.resources
+C:\Users\admin\source\repos\9_3_5ThreadMonitor\obj\Debug\9_3_5ThreadMonitor.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\9_3_5ThreadMonitor\obj\Debug\9_3_5ThreadMonitor.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\9_3_5ThreadMonitor\obj\Debug\9_3_5ThreadMonitor.exe
+C:\Users\admin\source\repos\9_3_5ThreadMonitor\obj\Debug\9_3_5ThreadMonitor.pdb
