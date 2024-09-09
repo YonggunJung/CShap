@@ -1,0 +1,20 @@
+﻿<Window x:Class="파일쓰기.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:파일쓰기"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button Content="저장" x:Name="btnSave" Click="btnSave_Click" HorizontalAlignment="Left" Margin="343,98,0,0" VerticalAlignment="Top"/>
+        <RichTextBox Margin="130,161,159,79" x:Name="richTxt">
+            <FlowDocument>
+                <Paragraph>
+                    <Run Text="RichTextBox"/>
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+
+    </Grid>
+</Window>
