@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\9_3_8ProcessMutex\bin\Debug\9_3_8ProcessMutex.exe.config
+C:\Users\admin\source\repos\9_3_8ProcessMutex\bin\Debug\9_3_8ProcessMutex.exe
+C:\Users\admin\source\repos\9_3_8ProcessMutex\bin\Debug\9_3_8ProcessMutex.pdb
+C:\Users\admin\source\repos\9_3_8ProcessMutex\obj\Debug\9_3_8ProcessMutex.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\9_3_8ProcessMutex\obj\Debug\_9_3_8ProcessMutex.Form1.resources
+C:\Users\admin\source\repos\9_3_8ProcessMutex\obj\Debug\_9_3_8ProcessMutex.Properties.Resources.resources
+C:\Users\admin\source\repos\9_3_8ProcessMutex\obj\Debug\9_3_8ProcessMutex.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\9_3_8ProcessMutex\obj\Debug\9_3_8ProcessMutex.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\9_3_8ProcessMutex\obj\Debug\9_3_8ProcessMutex.exe
+C:\Users\admin\source\repos\9_3_8ProcessMutex\obj\Debug\9_3_8ProcessMutex.pdb
