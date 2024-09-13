@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\10_1_2MenuStrip\bin\Debug\10_1_2MenuStrip.exe.config
+C:\Users\admin\source\repos\10_1_2MenuStrip\bin\Debug\10_1_2MenuStrip.exe
+C:\Users\admin\source\repos\10_1_2MenuStrip\bin\Debug\10_1_2MenuStrip.pdb
+C:\Users\admin\source\repos\10_1_2MenuStrip\obj\Debug\10_1_2MenuStrip.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\10_1_2MenuStrip\obj\Debug\_10_1_2MenuStrip.Form1.resources
+C:\Users\admin\source\repos\10_1_2MenuStrip\obj\Debug\_10_1_2MenuStrip.Properties.Resources.resources
+C:\Users\admin\source\repos\10_1_2MenuStrip\obj\Debug\10_1_2MenuStrip.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\10_1_2MenuStrip\obj\Debug\10_1_2MenuStrip.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\10_1_2MenuStrip\obj\Debug\10_1_2MenuStrip.exe
+C:\Users\admin\source\repos\10_1_2MenuStrip\obj\Debug\10_1_2MenuStrip.pdb
