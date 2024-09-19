@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\10_1_4ContextMenu\bin\Debug\10_1_4ContextMenu.exe.config
+C:\Users\admin\source\repos\10_1_4ContextMenu\bin\Debug\10_1_4ContextMenu.exe
+C:\Users\admin\source\repos\10_1_4ContextMenu\bin\Debug\10_1_4ContextMenu.pdb
+C:\Users\admin\source\repos\10_1_4ContextMenu\obj\Debug\10_1_4ContextMenu.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\10_1_4ContextMenu\obj\Debug\_10_1_4ContextMenu.Form1.resources
+C:\Users\admin\source\repos\10_1_4ContextMenu\obj\Debug\_10_1_4ContextMenu.Properties.Resources.resources
+C:\Users\admin\source\repos\10_1_4ContextMenu\obj\Debug\10_1_4ContextMenu.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\10_1_4ContextMenu\obj\Debug\10_1_4ContextMenu.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\10_1_4ContextMenu\obj\Debug\10_1_4ContextMenu.exe
+C:\Users\admin\source\repos\10_1_4ContextMenu\obj\Debug\10_1_4ContextMenu.pdb
