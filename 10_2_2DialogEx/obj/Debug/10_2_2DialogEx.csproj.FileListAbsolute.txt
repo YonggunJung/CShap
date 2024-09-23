@@ -1,0 +1,12 @@
+C:\Users\admin\source\repos\10_2_2DialogEx\bin\Debug\10_2_2DialogEx.exe.config
+C:\Users\admin\source\repos\10_2_2DialogEx\bin\Debug\10_2_2DialogEx.exe
+C:\Users\admin\source\repos\10_2_2DialogEx\bin\Debug\10_2_2DialogEx.pdb
+C:\Users\admin\source\repos\10_2_2DialogEx\obj\Debug\10_2_2DialogEx.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\10_2_2DialogEx\obj\Debug\_10_2_2DialogEx.Form1.resources
+C:\Users\admin\source\repos\10_2_2DialogEx\obj\Debug\_10_2_2DialogEx.ModalessForm.resources
+C:\Users\admin\source\repos\10_2_2DialogEx\obj\Debug\_10_2_2DialogEx.ModalForm.resources
+C:\Users\admin\source\repos\10_2_2DialogEx\obj\Debug\_10_2_2DialogEx.Properties.Resources.resources
+C:\Users\admin\source\repos\10_2_2DialogEx\obj\Debug\10_2_2DialogEx.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\10_2_2DialogEx\obj\Debug\10_2_2DialogEx.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\10_2_2DialogEx\obj\Debug\10_2_2DialogEx.exe
+C:\Users\admin\source\repos\10_2_2DialogEx\obj\Debug\10_2_2DialogEx.pdb
