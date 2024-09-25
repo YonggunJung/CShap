@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\10_2_4CommonDialog\bin\Debug\10_2_4CommonDialog.exe.config
+C:\Users\admin\source\repos\10_2_4CommonDialog\bin\Debug\10_2_4CommonDialog.exe
+C:\Users\admin\source\repos\10_2_4CommonDialog\bin\Debug\10_2_4CommonDialog.pdb
+C:\Users\admin\source\repos\10_2_4CommonDialog\obj\Debug\10_2_4CommonDialog.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\10_2_4CommonDialog\obj\Debug\_10_2_4CommonDialog.Form1.resources
+C:\Users\admin\source\repos\10_2_4CommonDialog\obj\Debug\_10_2_4CommonDialog.Properties.Resources.resources
+C:\Users\admin\source\repos\10_2_4CommonDialog\obj\Debug\10_2_4CommonDialog.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\10_2_4CommonDialog\obj\Debug\10_2_4CommonDialog.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\10_2_4CommonDialog\obj\Debug\10_2_4CommonDialog.exe
+C:\Users\admin\source\repos\10_2_4CommonDialog\obj\Debug\10_2_4CommonDialog.pdb
