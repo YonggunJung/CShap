@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\10_3_2Timer\bin\Debug\10_3_2Timer.exe.config
+C:\Users\admin\source\repos\10_3_2Timer\bin\Debug\10_3_2Timer.exe
+C:\Users\admin\source\repos\10_3_2Timer\bin\Debug\10_3_2Timer.pdb
+C:\Users\admin\source\repos\10_3_2Timer\obj\Debug\10_3_2Timer.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\10_3_2Timer\obj\Debug\_10_3_2Timer.Form1.resources
+C:\Users\admin\source\repos\10_3_2Timer\obj\Debug\_10_3_2Timer.Properties.Resources.resources
+C:\Users\admin\source\repos\10_3_2Timer\obj\Debug\10_3_2Timer.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\10_3_2Timer\obj\Debug\10_3_2Timer.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\10_3_2Timer\obj\Debug\10_3_2Timer.exe
+C:\Users\admin\source\repos\10_3_2Timer\obj\Debug\10_3_2Timer.pdb
