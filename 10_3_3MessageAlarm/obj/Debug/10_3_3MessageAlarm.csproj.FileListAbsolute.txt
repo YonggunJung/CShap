@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\10_3_3MessageAlarm\bin\Debug\10_3_3MessageAlarm.exe.config
+C:\Users\admin\source\repos\10_3_3MessageAlarm\bin\Debug\10_3_3MessageAlarm.exe
+C:\Users\admin\source\repos\10_3_3MessageAlarm\bin\Debug\10_3_3MessageAlarm.pdb
+C:\Users\admin\source\repos\10_3_3MessageAlarm\obj\Debug\10_3_3MessageAlarm.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\10_3_3MessageAlarm\obj\Debug\_10_3_3MessageAlarm.Form1.resources
+C:\Users\admin\source\repos\10_3_3MessageAlarm\obj\Debug\_10_3_3MessageAlarm.MsgForm.resources
+C:\Users\admin\source\repos\10_3_3MessageAlarm\obj\Debug\_10_3_3MessageAlarm.Properties.Resources.resources
+C:\Users\admin\source\repos\10_3_3MessageAlarm\obj\Debug\10_3_3MessageAlarm.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\10_3_3MessageAlarm\obj\Debug\10_3_3MessageAlarm.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\10_3_3MessageAlarm\obj\Debug\10_3_3MessageAlarm.exe
+C:\Users\admin\source\repos\10_3_3MessageAlarm\obj\Debug\10_3_3MessageAlarm.pdb
