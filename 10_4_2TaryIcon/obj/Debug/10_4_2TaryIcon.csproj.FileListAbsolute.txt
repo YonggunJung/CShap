@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\10_4_2TaryIcon\bin\Debug\10_4_2TaryIcon.exe.config
+C:\Users\admin\source\repos\10_4_2TaryIcon\bin\Debug\10_4_2TaryIcon.exe
+C:\Users\admin\source\repos\10_4_2TaryIcon\bin\Debug\10_4_2TaryIcon.pdb
+C:\Users\admin\source\repos\10_4_2TaryIcon\obj\Debug\10_4_2TaryIcon.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\10_4_2TaryIcon\obj\Debug\_10_4_2TaryIcon.Form1.resources
+C:\Users\admin\source\repos\10_4_2TaryIcon\obj\Debug\_10_4_2TaryIcon.Properties.Resources.resources
+C:\Users\admin\source\repos\10_4_2TaryIcon\obj\Debug\10_4_2TaryIcon.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\10_4_2TaryIcon\obj\Debug\10_4_2TaryIcon.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\10_4_2TaryIcon\obj\Debug\10_4_2TaryIcon.exe
+C:\Users\admin\source\repos\10_4_2TaryIcon\obj\Debug\10_4_2TaryIcon.pdb
